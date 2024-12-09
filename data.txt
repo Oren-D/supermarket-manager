@@ -1,0 +1,49 @@
+# ProductManager
+ProductCount: 1
+Product:
+    ID: 4554
+    Name: Air max
+    Description: cool shoes
+    Price: 777.00
+    ManufactureDate: 1999-06-07
+    Brand: Nike
+    Category: shoes
+    Supplier: Nike usa
+
+# CategoryManager
+CategoryCount: 1
+Category:
+    Name: shoes
+
+# BrandManager
+BrandCount: 1
+Brand:
+    Name: Nike
+
+# SupplierManager
+SupplierCount: 1
+Supplier:
+    Name: Nike usa
+    Phone: +78912
+    Address:
+        Street: Jhon
+        City: Big apple
+        PostalCode: 65865
+
+# CustomerManager
+CustomerCount: 1
+Customer:
+    ID: 767
+    Name: dron
+    Email: d@f.com
+    Address:
+         Street: Jhon
+         City: Big apple
+         PostalCode: 65865
+# OrderManager
+OrderCount: 1
+Order:
+    ID: 111
+    Customer: dron
+    Date: 2026-11-12
+    Products: 4554

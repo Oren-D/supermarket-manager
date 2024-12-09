@@ -1,0 +1,3 @@
+C:/workspace/c++/OREN_DAVIDIAN_315871210_ANDREI_TARKHANOV_336104575_/cmake-build-debug/CMakeFiles/OREN_DAVIDIAN_315871210_ANDREI_TARKHANOV_336104575_.dir
+C:/workspace/c++/OREN_DAVIDIAN_315871210_ANDREI_TARKHANOV_336104575_/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/workspace/c++/OREN_DAVIDIAN_315871210_ANDREI_TARKHANOV_336104575_/cmake-build-debug/CMakeFiles/rebuild_cache.dir
